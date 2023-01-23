@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Entrada
+  - Personagem
+  - Luz
+  - Caixa
+  - Parede
+  - Objetos
+  - Garrafas
+  - Lixo
+  - Item
+  - Moeda
+  - Lixeira
+  - Pagina
+  - Chuveiro
+  - Dialogo
+  - Ativador
+  - Transition
+  - Interrogatorio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GarrafasSilhueta
+    uniqueID: 2750637373
+    locked: 0
+  - name: Garrafas
+    uniqueID: 2349077903
+    locked: 0
