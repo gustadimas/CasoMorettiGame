@@ -1,0 +1,63 @@
+    INFO: 2023-01-25 17:35:07,630:               log.py:   20: Logging to D:\Documentos\Unity Projects\Projeto CasoMoretti\mdpdf.log
+   DEBUG: 2023-01-25 17:35:07,631:               cli.py:  103: README.md
+    INFO: 2023-01-25 17:35:07,631:         converter.py:   14: README.md
+   DEBUG: 2023-01-25 17:35:07,643:      pdf_renderer.py:  470: printSegment: Caso Moretti
+   DEBUG: 2023-01-25 17:35:07,660:      pdf_renderer.py:  470: printSegment: Um caso negligenciado de feminicídio que precisa ser resolvido. O jogador assume o papel de investigador e deve
+   DEBUG: 2023-01-25 17:35:07,669:      pdf_renderer.py:  470: printSegment: coletar evidências, entrevistar testemunhas e desvendar pistas para desvendar a verdade por trás do crime e trazer
+   DEBUG: 2023-01-25 17:35:07,670:      pdf_renderer.py:  470: printSegment: justiça à vítima. O jogo é baseado em fatos reais e visa sensibilizar o público sobre a importância de combater a
+   DEBUG: 2023-01-25 17:35:07,670:      pdf_renderer.py:  470: printSegment: violência contra as mulheres e promover a igualdade de gênero. Ele oferece uma jogabilidade envolvente e uma
+   DEBUG: 2023-01-25 17:35:07,671:      pdf_renderer.py:  470: printSegment: história emocionante, além de trazer uma mensagem importante para o público.
+   DEBUG: 2023-01-25 17:35:07,671:      pdf_renderer.py:  470: printSegment: Objetivo do desenvolvimento do jogo
+   DEBUG: 2023-01-25 17:35:07,671:      pdf_renderer.py:  470: printSegment: Este jogo foi desenvolvido com o intuito de ser submetido a avaliação final de semestre, do curso de Jogos Digitais
+   DEBUG: 2023-01-25 17:35:07,671:      pdf_renderer.py:  470: printSegment: no IFBA - Lauro de Freitas. Tendo como norteamento o tema transversal os Direitos Humanos, com o enfoque no 
+   DEBUG: 2023-01-25 17:35:07,678:      pdf_renderer.py:  470: printSegment: feminicídio
+   DEBUG: 2023-01-25 17:35:07,686:      pdf_renderer.py:  470: printSegment: .
+   DEBUG: 2023-01-25 17:35:07,687:      pdf_renderer.py:  470: printSegment: Imagens do jogo
+   DEBUG: 2023-01-25 17:35:07,687:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:07,687:      pdf_renderer.py:  470: printSegment: Menu inicial
+   DEBUG: 2023-01-25 17:35:07,690:      pdf_renderer.py:  235: D:\Documentos\Unity Projects\Projeto CasoMoretti\Docs\Images\Menu.png, 1895, 1079
+   DEBUG: 2023-01-25 17:35:07,757:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:07,758:      pdf_renderer.py:  470: printSegment: Primeira Tela
+   DEBUG: 2023-01-25 17:35:07,758:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:07,758:      pdf_renderer.py:  470: printSegment: Apartamento da vítima, onde ocorreu o assassinato.
+   DEBUG: 2023-01-25 17:35:07,759:      pdf_renderer.py:  235: D:\Documentos\Unity Projects\Projeto CasoMoretti\Docs\Images\ApartamentoSofia.png, 1447, 1077
+   DEBUG: 2023-01-25 17:35:07,801:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:07,802:      pdf_renderer.py:  470: printSegment: Apartamentos do Prédio Principal
+   DEBUG: 2023-01-25 17:35:07,802:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:07,803:      pdf_renderer.py:  470: printSegment: Dois velhinhos, moradores do prédio estão ao lado de fora, o jogador pode interagir
+   DEBUG: 2023-01-25 17:35:07,803:      pdf_renderer.py:  470: printSegment: com eles.
+   DEBUG: 2023-01-25 17:35:07,804:      pdf_renderer.py:  235: D:\Documentos\Unity Projects\Projeto CasoMoretti\Docs\Images\Apartamentos.png, 1919, 1079
+   DEBUG: 2023-01-25 17:35:07,858:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:07,858:      pdf_renderer.py:  470: printSegment: Cidade
+   DEBUG: 2023-01-25 17:35:07,859:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:07,860:      pdf_renderer.py:  470: printSegment: O jogador está na cidade e pode entrar em determinados locais.
+   DEBUG: 2023-01-25 17:35:07,860:      pdf_renderer.py:  235: D:\Documentos\Unity Projects\Projeto CasoMoretti\Docs\Images\Bar.png, 1919, 1079
+   DEBUG: 2023-01-25 17:35:07,913:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:07,913:      pdf_renderer.py:  470: printSegment: Puzzle Bar
+   DEBUG: 2023-01-25 17:35:07,914:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:07,915:      pdf_renderer.py:  470: printSegment: Um dos puzzles que o jogador precisa resolver para adquirir informações.
+   DEBUG: 2023-01-25 17:35:07,916:      pdf_renderer.py:  235: D:\Documentos\Unity Projects\Projeto CasoMoretti\Docs\Images\PuzzleBar.png, 1453, 1079
+   DEBUG: 2023-01-25 17:35:07,959:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:07,959:      pdf_renderer.py:  470: printSegment: Mercadinho
+   DEBUG: 2023-01-25 17:35:07,959:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:07,960:      pdf_renderer.py:  470: printSegment: Um dos locais em que o jogador pode encontrar pistas.
+   DEBUG: 2023-01-25 17:35:07,960:      pdf_renderer.py:  235: D:\Documentos\Unity Projects\Projeto CasoMoretti\Docs\Images\Mercadinho.png, 1919, 1079
+   DEBUG: 2023-01-25 17:35:08,014:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:08,015:      pdf_renderer.py:  470: printSegment: Puzzle Mercadinho
+   DEBUG: 2023-01-25 17:35:08,016:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:08,016:      pdf_renderer.py:  470: printSegment: Um latão de lixo, será que tem algo em baixo desse lixo todo?
+   DEBUG: 2023-01-25 17:35:08,017:      pdf_renderer.py:  235: D:\Documentos\Unity Projects\Projeto CasoMoretti\Docs\Images\PuzzleMercadinho.png, 1919, 1079
+   DEBUG: 2023-01-25 17:35:08,082:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:08,083:      pdf_renderer.py:  470: printSegment: Créditos
+   DEBUG: 2023-01-25 17:35:08,084:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:08,084:      pdf_renderer.py:  470: printSegment: Todos os desenvolvedores e orientadores do projeto.
+   DEBUG: 2023-01-25 17:35:08,085:      pdf_renderer.py:  235: D:\Documentos\Unity Projects\Projeto CasoMoretti\Docs\Images\Credits.png, 1919, 1079
+   DEBUG: 2023-01-25 17:35:08,145:      pdf_renderer.py:  470: printSegment: Tecnologias utilizadas
+   DEBUG: 2023-01-25 17:35:08,146:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:08,146:      pdf_renderer.py:  470: printSegment: Unity (Game Engine)
+   DEBUG: 2023-01-25 17:35:08,146:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2023-01-25 17:35:08,147:      pdf_renderer.py:  470: printSegment: Aseprite (Software de Pixel Art)
+   DEBUG: 2023-01-25 17:35:08,147:      pdf_renderer.py:   53: 0, [1, 'Caso Moretti', 1, 68.0]
+   DEBUG: 2023-01-25 17:35:08,148:      pdf_renderer.py:   53: 1, [2, 'Objetivo do desenvolvimento do jogo', 1, 172.0]
+   DEBUG: 2023-01-25 17:35:08,148:      pdf_renderer.py:   53: 2, [2, 'Imagens do jogo', 1, 247.60000000000002]
+   DEBUG: 2023-01-25 17:35:08,148:      pdf_renderer.py:   53: 3, [2, 'Tecnologias utilizadas', 6, 451.9433038040646]
