@@ -69,10 +69,6 @@ public class PaginaDiario : MonoBehaviour
             portaBanheiro.SetActive(false);
         }
     }
-    private void OnCollisionExit2D(Collision2D Colisor)
-    {
-
-    }
 
     private void Pagina()
     {
