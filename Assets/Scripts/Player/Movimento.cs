@@ -100,7 +100,6 @@ public class Movimento : MonoBehaviour
         {
             stateTD = MovementStateTD.walkingSidesTD;
             spriteTD.flipX = true;
-            
         }
 
         else if (x > 0)
