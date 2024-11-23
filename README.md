@@ -4,7 +4,7 @@ Um caso negligenciado de feminicídio que precisa ser resolvido. O jogador assum
 
 ## Objetivo do desenvolvimento do jogo
 
-Este jogo foi desenvolvido com o intuito de ser submetido a avaliação final de semestre, do curso de Jogos Digitais no IFBA - Lauro de Freitas. Tendo como norteamento o tema transversal os Direitos Humanos, com o enfoque no **feminicídio**.
+Este jogo foi desenvolvido com o intuito de ser submetido a avaliação final do 2° semestre, do curso de Jogos Digitais no IFBA - Lauro de Freitas. Tendo como norteamento o tema transversal os Direitos Humanos, com o enfoque no **feminicídio**.
 
 
 ## Imagens do jogo
