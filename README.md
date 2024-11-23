@@ -6,6 +6,8 @@ Um caso negligenciado de feminicídio que precisa ser resolvido. O jogador assum
 
 Este jogo foi desenvolvido com o intuito de ser submetido a avaliação final do 2° semestre, do curso de Jogos Digitais no IFBA - Lauro de Freitas. Tendo como norteamento o tema transversal os Direitos Humanos, com o enfoque no **feminicídio**.
 
+## Link para Download:
+**https://gustadimas.itch.io/caso-moretti**
 
 ## Imagens do jogo
 
