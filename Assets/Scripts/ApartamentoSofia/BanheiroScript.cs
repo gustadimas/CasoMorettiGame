@@ -26,6 +26,8 @@ public class BanheiroScript : MonoBehaviour
         }
     }
 
+    private void Start() => MouseBarForce.completou = false;
+
     private void Update()
     {
         if (MouseBarForce.completou == false)

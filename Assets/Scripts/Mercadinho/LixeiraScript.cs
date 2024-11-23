@@ -33,6 +33,8 @@ public class LixeiraScript : MonoBehaviour
         }
     }
 
+    private void Start() => LixosScript.completou = false;
+
     private void Update()
     {
         if (LixosScript.completou == false)

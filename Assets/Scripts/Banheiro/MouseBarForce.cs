@@ -31,6 +31,7 @@ public class MouseBarForce : MonoBehaviour
         indicador.transform.position = new Vector2(indicador.transform.position.x, indicador.transform.position.y - (quantBar * 3));
         coll = gameObject.GetComponent<Collider2D>();
         coll.enabled = true;
+        finalizou = false;
     }
 
     void Update()

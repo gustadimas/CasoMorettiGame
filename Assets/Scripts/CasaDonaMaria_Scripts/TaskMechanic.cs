@@ -26,6 +26,9 @@ public class TaskMechanic : MonoBehaviour
         luz = GameObject.Find("Luz");
         velhos = GameObject.Find("Velhos");
     }
+
+    private void Start() => TaskMechanic.completou = false;
+
     public void Fios(int points)
     {
         onCount = onCount + points;

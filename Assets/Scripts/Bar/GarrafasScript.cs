@@ -26,6 +26,8 @@ public class GarrafasScript : MonoBehaviour
         }
     }
 
+    public void Start() => MoveSystem.completou = false;
+
     public void Update()
     {
         if (MoveSystem.completou == false)
